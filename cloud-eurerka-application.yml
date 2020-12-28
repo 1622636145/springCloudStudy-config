@@ -10,7 +10,7 @@ server:
 spring: 
   profiles: dev
   application:
-    name: cloud-eureka
+    name: cloud-eurerka-application
 
 eureka:
   instance:
@@ -29,7 +29,7 @@ server:
 spring: 
   profiles: test
   application:
-    name: cloud-eureka
+    name: cloud-eurerka-application
 
 eureka:
   instance:
